@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepika Haldkar
 
-<!--
-**deepikahaldkar-data/deepikahaldkar-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | 📊 Power BI • Excel • SQL • R | 🎓 MCA | MBA (Operations Management)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🎓 MCA graduate | Pursuing MBA in Operations Management
+- 🏢 3+ years experience as MIS Executive at GAIL Gas Ltd
+- 💼 Monitored ₹9800+ Cr worth projects; built reports & dashboards for CXOs
+- 🛠️ Currently upskilling in SQL and R.
+- 🎯 Aiming to transition into a full-time **Data Analyst / BI Analyst** role
+- 🌍 Based in Noida | From Jabalpur, Madhya Pradesh
+
+
+## 📂 Portfolio Projects
+
+### 📊 [Sales Performance Dashboard](https://github.com/yourusername/sales-performance-dashboard)
+Interactive Power BI dashboard for sales analysis, trends, and KPIs.
+
+----
+
+## 🧠 Learning & Certifications
+-
+-
+-
+
+
+## 🛠️ Skills
+
+**Tools**: Excel, Power BI, SQL, SAP-MM  
+**Techniques**: Data cleaning, DAX, Data modeling, Reporting automation  
+**Soft Skills**: Communication, time management, stakeholder collaboration
+
+---
+
+## 📬 Connect With Me
+
+- 💼 [LinkedIn]((https://www.linkedin.com/in/deepika-haldkar))
+- 📧 deepikahaldkar@gmail.com
+
+---
+
