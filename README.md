@@ -3,7 +3,7 @@
 🎯 **Aspiring Data Analyst** | 📊 Power BI • Excel • SQL • R | 🎓 MCA | MBA (Operations Management)
 
 
-## 🌟 About Me
+🌟 About Me
 
 - 🎓 MCA graduate | Pursuing MBA in Operations Management
 - 🏢 3+ years experience as MIS Executive at GAIL Gas Ltd
@@ -13,14 +13,20 @@
 - 🌍 Based in Noida | From Jabalpur, Madhya Pradesh
 
 
-## 📂 Portfolio Projects
+📂 Portfolio Projects
 
-### 📊 [Sales Performance Dashboard](https://github.com/yourusername/sales-performance-dashboard)
+###Vrinda-Store-Data-Analysis (https://github.com/deepikahaldkar-data/Vrinda-Store-Data-Analysis.git)
+Excel-based retail data analysis project for Vrinda Store using charts, pivot tables, and KPIs.
+
+### 📊 Sales Performance Dashboard(https://github.com/deepikahaldkar-data/SalesPerformanceDashboard.git)
 Interactive Power BI dashboard for sales analysis, trends, and KPIs.
+
+### HR-Analytics-Dashboard (https://github.com/deepikahaldkar-data/HR-Analytics-Dashboard.git)
+A Power BI dashboard project focused on HR analytics, including employee attrition, demographics, department-wise performance, and key HR KPIs.
 
 ----
 
-## 🧠 Learning & Certifications
+ 🧠 Learning & Certifications
 -
 -
 -
