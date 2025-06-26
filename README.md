@@ -33,10 +33,11 @@ Visualizes employee attrition, demographics, department performance, and HR KPIs
 ----
 
  ## 🧠 Certifications
--
--
--
-
+ - Excel Skill Certification -  One Roadmap  (https://oneroadmap.io/skills/excel/certificate/CERT-4BB80FAC)
+- The Complete Oracle SQL Certification Course - Udmey (https://www.udemy.com/certificate/UC-6f1268cb-e5f3-48b2-9898-b2166336d906/)
+- Data analysis with R Programming - Coursera (https://coursera.org/share/3cb190f34f708a6d3a918da7914a804c)
+- SQL (Basic) Certificate - Hackerrank (https://www.hackerrank.com/certificates/iframe/123932af9f23)
+- Data Analyst Skill Certification -  One Roadmap  (https://oneroadmap.io/skills/da/certificate/CERT-773BC1CD)
 
 ## 🛠️ Skills
 
