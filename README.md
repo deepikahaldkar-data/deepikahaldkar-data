@@ -9,7 +9,7 @@
 - 💼 Monitoring ₹9800+ crore CGD projects directly at the CEO’s office  
 - 📈 Generate daily, weekly, and monthly reports for real-time project tracking
 - 📊 Visualize complex data into intuitive dashboards
-- 🛠️ Currently upskilling in SQL and R.
+- 🛠️ Currently upskilling in R.
 - 🎯 Aiming to transition into a full-time **Data Analyst / BI Analyst** role
 - 🌍 Based in Noida | From Jabalpur, Madhya Pradesh
 
@@ -39,9 +39,11 @@ Visualizes employee attrition, demographics, department performance, and HR KPIs
 
 ## 🛠️ Skills
 
-**Tools**: Excel, Power BI, SQL, SAP-MM  
-**Techniques**: Data cleaning, DAX, Data modeling, Reporting automation  
-**Soft Skills**: Communication, time management, stakeholder collaboration
+•	Data Analysis: Excel (Advanced), Power BI, Data Cleaning.
+•	Programming: SQL , R (Learning)
+•	Visualization: Power BI Dashboards, Excel Charts, KPI Reporting
+•	Tools: MS Office Suite, Google Sheets, SAP-MM, BI Tools
+•Soft Skills : Communication, time management, stakeholder collaboration
 
 ### 🌱 Goal  
 To grow into a Data Analyst/BI Analyst role where I can drive data-backed decisions and build impactful analytics solutions.
