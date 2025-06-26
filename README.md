@@ -2,7 +2,6 @@
 
 🎯 **Aspiring Data Analyst** | 📊 Power BI • Excel • SQL • R | 🎓 MCA | MBA (Operations Management)
 
-
 🌟 About Me
 
 - 🎓 MCA graduate | Pursuing MBA in Operations Management
@@ -17,18 +16,17 @@
 
   ## 📂 Portfolio Projects
 
-###📦 Vrinda-Store-Data-Analysis (https://github.com/deepikahaldkar-data/Vrinda-Store-Data-Analysis.git)
+# 📦 Vrinda-Store-Data-Analysis (https://github.com/deepikahaldkar-data/Vrinda-Store-Data-Analysis.git)
 **Tools Used**: Excel, PivotTables, Charts  
 Excel-based retail data analysis project for Vrinda Store using charts, pivot tables, and KPIs.
 
-### 📊 Sales Performance Dashboard(https://github.com/deepikahaldkar-data/SalesPerformanceDashboard.git)
+# 📊 Sales Performance Dashboard(https://github.com/deepikahaldkar-data/SalesPerformanceDashboard.git)
 **Tools Used**: Power BI, DAX, Data Modeling  
 Interactive dashboard analyzing sales trends, region-wise performance, and key KPIs.
 
-### 🧑‍💼 HR-Analytics-Dashboard (https://github.com/deepikahaldkar-data/HR-Analytics-Dashboard.git)
+# 🧑‍💼 HR-Analytics-Dashboard (https://github.com/deepikahaldkar-data/HR-Analytics-Dashboard.git)
 **Tools Used**: Power BI, DAX  
 Visualizes employee attrition, demographics, department performance, and HR KPIs.
-
 
 ----
 
